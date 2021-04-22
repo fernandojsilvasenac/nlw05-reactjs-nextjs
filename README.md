@@ -61,3 +61,14 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) fi
 
 
 ---
+# // #missaoespacial 1ªaula
+# yarn add typescript @types/react @types/node -D
+# yarn add sass
+# yarn add date-fns
+# 1:06 api jsonserver
+# yarn add json-server -D
+# package.json - script server
+# -w -d 750 -p 3333 // -w atualizar -d 750 pra funcionar como um delay de retorno da api -p 3333 é a porta onde vai rodar a api
+# documentação notion
+[notion][https://www.notion.so/Next-Level-Week-5-2-Dia]
+# // #embuscadoproximonivel 2ªaula
